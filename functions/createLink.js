@@ -1,4 +1,4 @@
-const axios = require('axios');
+// const axios = require('axios');
 require('dotenv').config();
 const { CREATE_LINK } = require('./utils/linkQueries.js');
 const sendQuery = require('./utils/sendQuery');
